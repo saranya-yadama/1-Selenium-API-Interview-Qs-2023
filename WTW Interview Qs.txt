@@ -1,0 +1,52 @@
+manual testing exp?
+were able to complet manual testing and test scripting
+would you automate all the sprint test cases - selective test cases(stable test cases) + priority test cases
+how many team members dev etc?
+if any backlogs happen then your approach?
+most challenging things u have faced?
+what if you have differnt teams & then there is conflict then how will you handle that
+best locators?
+parent child relation / sibling ?
+have u worked on API?
+what is swageer?
+Put & Post diff?
+method overloading in java?
+wrapper class?
+can we access static variable globally?
+how to handle windows popup?
+difference in findelment & findelements
+how to switch between frames?
+is using Thread.sleep() good practice?
+difference explicit & implicit wait?
+can we automate Captch?
+in postman how the authorisation happens?
+success message? incorrect
+no issues with english accent?
+your biggest technical achievemnent?
+any argument or fight you won with your client collegues etc?
+reverse a string - in any language?
+Write an xpath for line <td>some text</td> in below example<table><thead></thead><tbody><td class='table data 1'></td><td>some text</td></tbody></table>
+Ans: //td[@class='table data 1']/following-sibling::td[1]
+
+
+
+Question 5:
+Identify the xpath from the html code for the second element of the unordered list (<li name=”item2”>Css</li>, assuming that the parent (div tag) is having a dynamic value for locator Id.
+
+<div id=”name_12”>
+
+<ul>
+
+<li name=”item1”>Xpath</li>
+
+<li name=”item2”>Css</li>
+
+<li name=”item3”>Partial Text</li>
+
+</ul>
+
+</div>
+
+
+//li[@name='item1']/following-sibling::li
+

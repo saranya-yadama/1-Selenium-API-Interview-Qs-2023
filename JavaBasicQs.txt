@@ -1,0 +1,25 @@
+1)Access Modifiers;
+
+Default: methods/variables can be accessed anywhere only inside that particular package
+Public: methods/variables can be accessed anywhere across all the packages
+Private: methods/variables can be accessed only inside that particular class. can't be accessed outside the class of same package
+Protected: methods/variables can be accessed (anywhere inside that particular package)+(inside the sub/child classes) => default + (inside the child classes)
+
+only way to access methods/variables outside of package is to use either public or protected with inheritance
+
+2)Where do we use finally block in automation?
+To close the browser once the execution of test case is completed. even if the Test case is passed or failed
+Also to delete the cookies of current session
+
+3) Is there any way where finally block will not get executed?
+it will not get executed when we stop JVM forcefully (i.e., by clicking stop or terminate button in IDE)
+
+4) one try block can be followed by multiple catch blocks
+finally/catch should be the immediate block after try
+
+http://www.java2novice.com/java_exception_handling_examples/finally_block/
+
+
+
+
+
